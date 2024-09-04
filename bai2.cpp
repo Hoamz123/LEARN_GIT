@@ -7,6 +7,7 @@ int main(){
     int cnt = 0;//dem so tu trong xau s
     stringstream ss(s);
     while(ss >> tmp){
+        cout << tmp << endl;
         cnt++;
     }
     cout << cnt << endl;
