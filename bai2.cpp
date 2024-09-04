@@ -10,6 +10,7 @@ int main(){
         cout << tmp << endl;
         cnt++;
     }
+    cout << "da sua luc 4/9/2024" << endl;
     cout << cnt << endl;
     return 0;
 }
